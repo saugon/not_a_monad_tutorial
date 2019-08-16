@@ -1,7 +1,7 @@
 baseURL = "https://catalinasy.github.io/not_a_monad_tutorial/"
 languageCode = "en-us"
 title = "This is not a Monad Tutorial"
-theme = "Blogger"
+theme = "blogger"
 
 [Author]
     name = "unbalancedparentheses"
